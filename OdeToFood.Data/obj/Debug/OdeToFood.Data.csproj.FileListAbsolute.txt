@@ -1,0 +1,5 @@
+D:\Github\Projects\.Net Framework\OdeToFoodMVC\OdeToFood.Data\bin\Debug\OdeToFood.Data.dll
+D:\Github\Projects\.Net Framework\OdeToFoodMVC\OdeToFood.Data\bin\Debug\OdeToFood.Data.pdb
+D:\Github\Projects\.Net Framework\OdeToFoodMVC\OdeToFood.Data\obj\Debug\OdeToFood.Data.csproj.CoreCompileInputs.cache
+D:\Github\Projects\.Net Framework\OdeToFoodMVC\OdeToFood.Data\obj\Debug\OdeToFood.Data.dll
+D:\Github\Projects\.Net Framework\OdeToFoodMVC\OdeToFood.Data\obj\Debug\OdeToFood.Data.pdb

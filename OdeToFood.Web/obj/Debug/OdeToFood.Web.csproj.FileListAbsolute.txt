@@ -77,3 +77,5 @@ D:\Github\Projects\.Net Framework\OdeToFoodMVC\OdeToFood.Web\obj\Debug\OdeToFood
 D:\Github\Projects\.Net Framework\OdeToFoodMVC\OdeToFood.Web\obj\Debug\OdeToFood.Web.csproj.CopyComplete
 D:\Github\Projects\.Net Framework\OdeToFoodMVC\OdeToFood.Web\obj\Debug\OdeToFood.Web.dll
 D:\Github\Projects\.Net Framework\OdeToFoodMVC\OdeToFood.Web\obj\Debug\OdeToFood.Web.pdb
+D:\Github\Projects\.Net Framework\OdeToFoodMVC\OdeToFood.Web\bin\OdeToFood.Data.dll
+D:\Github\Projects\.Net Framework\OdeToFoodMVC\OdeToFood.Web\bin\OdeToFood.Data.pdb

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using OdeToFood.Data.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,7 +11,6 @@ namespace OdeToFood.Data
     {
         public int RestaurantId { get; set; }
         public string Name { get; set; }
-
-
+        public CuisineType Cuisine { get; set; }
     }
 }
