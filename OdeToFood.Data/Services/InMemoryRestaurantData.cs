@@ -22,6 +22,12 @@ namespace OdeToFood.Data.Services
         {
             return restaurants.OrderBy(r => r.Name);
         }
+
+        public Restaurant GetRestaurantById(int id)
+        {
+            var restaurant = restaurants.FirstOrDefault(r => r.RestaurantId == id);
+            return restaurant;
+        }
     }
 
 }
